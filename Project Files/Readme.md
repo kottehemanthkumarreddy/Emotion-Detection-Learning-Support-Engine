@@ -64,7 +64,7 @@ PyTest	Unit Testing
 Git & GitHub	Version Control
 🚀 Installation
 1. Clone Repository
-git clone [https://github.com/samxiao0/skill-wallet---GenAI-Project-.git]
+git clone [https://github.com/kottehemanthkumarreddy/Emotion-Detection-Learning-Support-Engine.git]
 
 cd personalized-networking-assistant
 2. Create Virtual Environment
@@ -117,11 +117,11 @@ Database integration (MongoDB/PostgreSQL)
 Analytics dashboard
 Dark mode support
 👨‍💻 Author
-PEDDALACHIGALLA OMPRAKASH
+KOTTE HEMANTH KUMAR REDDY
 
-Email : peddalachigallaomprakash@gmail.com
+Email : 21013ee003@gmail.com
 
-Roll No. : 24HM5A0234
+Roll No. : 24HM5A0226
 
 B.Tech EEE
 
@@ -129,7 +129,7 @@ Course : Google Cloud Generative AI
 
 AITS Kadapa
 
-GitHub: (https://github.com/PrakashENGR/Emotion-Detection-Learning-Support-Engine.git)
+GitHub: (https://github.com/kottehemanthkumarreddy/Emotion-Detection-Learning-Support-Engine.git)
 
 📜 License
 This project was developed as part of an internship project for educational purposes.
